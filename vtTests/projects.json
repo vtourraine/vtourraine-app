@@ -1,0 +1,663 @@
+[
+	{
+		"name": "MyTee",
+		"slug": "mytee",
+		"year-start": 2011,
+		"year-end": 2017,
+		"platforms": ["web", "iOS"],
+		"client": "Studio AMANgA",
+		"description": "Collection de t-shirts, avec organisation par critères spécifiques. Actions proposées à l’utilisateur sur la base de leur utilisation. Adaptation du contenu en fonction du type d’appareil utilisé.",
+		"url": "http://www.studioamanga.com/mytee/",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/mytee/about.html",
+			"Web app": "https://www.studioamanga.com/mytee/"
+		},
+		"screenshots": ["shirt-120.png"],
+		"screenshots-big": ["homepage.png", "shirt.png", "shirts.png"]
+	},
+	{
+		"name": "WizBox",
+		"slug": "wizbox",
+		"year-start": 2009,
+		"year-end": 2021,
+		"platforms": ["iOS"],
+		"client": "Studio AMANgA",
+		"description": "Compagnon de jeu pour “Magic&nbsp;:&nbsp;L’Assemblée”, gestion des profils de joueurs, historique des parties, et aide-mémoires hautement spécifiques.",
+		"url": "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=325184067&mt=8",
+		"app-store-id": "325184067",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/wizbox/",
+			"App Store": "http://itunes.apple.com/app/wizbox/id325184067?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["main-120.png"],
+		"screenshots-big": ["main.png", "player.png", "tokens.png"]
+	},
+	{
+		"name": "Memorii",
+		"slug": "memorii",
+		"year-start": 2010,
+		"year-end": 2021,
+		"platforms": ["iOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Utilitaire e-learning conçu en particulier pour l’apprentissage et la pratique des caractères chinois ou japonais, avec un accompagnement de l’utilisateur dans ses progrès.",
+		"url": "http://itunes.apple.com/fr/app/memorii/id352411168?mt=8",
+		"app-store-id": "352411168",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/memorii/",
+			"App Store": "http://itunes.apple.com/app/memorii/id352411168?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["word-120.png"],
+		"screenshots-big": ["word.png", "lessons.png", "store.png"]
+	},
+	{
+		"name": "D0TS:Echoplex",
+		"slug": "echoplex",
+		"year-start": 2009,
+		"year-end": 2021,
+		"platforms": ["iOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Boîte à rythmes interactive permettant la manipulation des pistes sonores issues de la chanson “Echoplex” par Nine Inch Nails (licence Creative Commons).",
+		"url": "http://itunes.apple.com/app/d0ts-echoplex/id308598596?mt=8",
+		"app-store-id": "308598596",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/echoplex/",
+			"App Store": "http://itunes.apple.com/app/d0ts-echoplex/id308598596?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["pattern-120.png"],
+		"screenshots-big": ["home.png", "pattern.png", "overview.png"]
+	},
+	{
+		"name": "Bazinga!",
+		"slug": "bazinga",
+		"year-start": 2010,
+		"year-end": 2010,
+		"platforms": ["iOS"],
+		"client": "Studio AMANgA",
+		"description": "// classified //",
+		"url": "",
+		"links": {},
+		"screenshots": ["main-120.png"],
+		"screenshots-big": [],
+		"private": true
+	},
+	{
+		"name": "Short Cut[e]",
+		"slug": "shortcute",
+		"year-start": 2010,
+		"year-end": 2011,
+		"platforms": ["iOS"],
+		"client": "Xupito",
+		"description": "Reprise du concept de la grille d’icônes iOS, appliqué à un ensemble personnalisable de contacts (“Short Cut[e] Contact”) ou de musiques (“Short Cut[e] Music”).",
+		"url": "http://www.shortcute.net",
+		"app-store-id": "361388485",
+		"links": {
+			"Présentation (Music)": "http://www.shortcute.net/music", 
+			"App Store (Music)": "http://itunes.apple.com/app/short-cut-e-music/id361397229?mt=8&at=1000lMiD",
+			"Présentation (Contact)": "http://www.shortcute.net/contact",
+			"App Store (Contact)": "http://itunes.apple.com/app/short-cut-e-contact/id361388485?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["song-120.png"],
+		"screenshots-big": ["contact.png", "music.png", "people.png"]
+	},
+	{
+		"name": "This One Is On Us Mobile",
+		"slug": "thisoneisonusmobile",
+		"year-start": 2010,
+		"year-end": 2010,
+		"platforms": ["web"],
+		"client": "This One Is On Us",
+		"description": "Déclinaison du site internet de la communauté “This One Is On Us”, spécifiquement dédiée aux appareils mobiles.",
+		"url": "http://mobile.thisoneisonus.org/",
+		"links": {
+			"Site web": "http://mobile.thisoneisonus.org/"
+		},
+		"screenshots": ["releases-120.png"],
+		"screenshots-big": ["home.png", "releases.png", "release.png"]
+	},
+	{
+		"name": "Arrêt Sur Images",
+		"slug": "arretsurimages",
+		"year-start": 2009,
+		"year-end": 2009,
+		"platforms": ["iOS"],
+		"client": "Arrêt Sur Images",
+		"description": "Adaptation du site “Arrêt sur images” sous la forme d’une application iOS permettant la gestion des profils utilisateurs, la mise à jour de contenus multimédias, et le téléchargement de fichiers vidéos depuis un serveur dédié.",
+		"url": "http://itunes.apple.com/app/id329841188?mt=8",
+		"app-store-id": "329841188",
+		"links": {
+			"Présentation": "https://www.arretsurimages.net/iphone/",
+			"App Store": "http://itunes.apple.com/app/id329841188?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["homepage-120.png"],
+		"screenshots-big": ["homepage.png", "show.png", "article.png"]
+	},
+	{
+		"name": "MemO’clock",
+		"slug": "memoclock",
+		"year-start": 2011,
+		"year-end": 2011,
+		"platforms": ["iOS"],
+		"client": "Mindextent",
+		"description": "Prise de notes sous forme de texte, photo, vidéo, audio ou croquis, organisation par labels ou carnets, plusieurs modes d’édition des mémos, et gestion d’alarmes de rappel.",
+		"url": "http://itunes.apple.com/app/memoclock/id472385233?mt=8",
+		"app-store-id": "472385233",
+		"links": {
+			"Présentation": "http://www.mindextent.com/fr/memo-clock/",
+			"App Store": "http://itunes.apple.com/app/memoclock/id472385233?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["note-120.png"],
+		"screenshots-big": ["home.png", "note.png", "memo-list.png"]
+	},
+	{
+		"name": "GeO’clock",
+		"slug": "geoclock",
+		"year-start": 2011,
+		"year-end": 2011,
+		"platforms": ["iOS"],
+		"client": "Mindextent",
+		"description": "Prise de notes sous forme de texte, photo, vidéo, audio ou croquis, organisation par labels, plusieurs modes d’édition des mémos, et gestion d’alarmes géolocalisées permettant de notifier l’utilisateur selon sa position actuelle.",
+		"url": "http://itunes.apple.com/app/geoclock/id472371741?mt=8",
+		"app-store-id": "472371741",
+		"links": {
+			"Présentation": "http://www.mindextent.com/fr/geo-clock/",
+			"App Store": "http://itunes.apple.com/app/geoclock/id472371741?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["map-120.png"],
+		"screenshots-big": ["map.png"]
+	},
+	{
+		"name": "Contact[s]",
+		"slug": "contacts",
+		"year-start": 2011,
+		"year-end": 2022,
+		"platforms": ["iOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Carnet d’adresses conçu pour la mise en valeur des contacts les plus importants. Intégration complète aux interfaces de communication d’iOS : téléphone, messages, e-mail et Twitter ; synchronisation des données avec iCloud.",
+		"url": "https://itunes.apple.com/app/contact-s-2/id639507613?mt=8",
+		"app-store-id": "639507613",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/contacts/",
+			"App Store": "https://itunes.apple.com/app/contact-s-2/id639507613?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["favorites-120.png"],
+		"screenshots-big": ["favorites.png", "contacts.png", "profile.png"]
+	},
+	{
+		"name": "Fast Counter",
+		"slug": "fastcounter",
+		"year-start": 2012,
+		"year-end": 2012,
+		"platforms": ["iOS"],
+		"client": "Shazino",
+		"description": "Gestion du comptage de bactéries sur boîtes de Petri. Analyse statique et temps-réel, stockage et édition des résultats.",
+		"url": "http://itunes.apple.com/app/fast-counter/id529461202",
+		"app-store-id": "529461202",
+		"links": {
+			"Présentation": "http://www.shazino.com/fastcounter",
+			"App Store": "http://itunes.apple.com/app/fast-counter/id529461202?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["count-120.png"],
+		"screenshots-big": ["count.png", "count-list.png", "count-live.png"]
+	},
+	{
+		"name": "Laboratory Timer",
+		"slug": "labtimer",
+		"year-start": 2012,
+		"year-end": 2019,
+		"platforms": ["iOS", "watchOS"],
+		"client": "Shazino",
+		"description": "Simple chronomètre optimisé pour l’utilisation en laboratoire.",
+		"url": "http://itunes.apple.com/app/laboratory-timer/id537195348?mt=8",
+		"app-store-id": "537195348",
+		"links": {
+			"Présentation": "http://www.shazino.com/laboratorytimer",
+			"App Store": "http://itunes.apple.com/app/laboratory-timer/id537195348?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["timer-list-120.png"],
+		"screenshots-big": ["timer-list.png", "timer-pull.png", "timer-detail.png"]
+	},
+	{
+		"name": "SciKey",
+		"slug": "scikey",
+		"year-start": 2014,
+		"year-end": 2019,
+		"platforms": ["iOS"],
+		"client": "Shazino",
+		"description": "Clavier scientifique pour iOS, entièrement personnalisable.",
+		"url": "https://itunes.apple.com/app/scikey-scientific-keyboard/id927863083?mt=8",
+		"app-store-id": "927863083",
+		"links": {
+			"App Store": "https://itunes.apple.com/app/scikey-scientific-keyboard/id927863083?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["scikey-main-120.png"],
+		"screenshots-big": ["scikey-main.png", "scikey-custom.png"]
+	},
+	{
+		"name": "1List",
+		"slug": "onelist",
+		"year-start": 2012,
+		"year-end": 2022,
+		"platforms": ["iOS", "watchOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Gestionnaire d’une liste de rappels, intégration avec iCloud et Siri.",
+		"url": "https://itunes.apple.com/app/1list-fast-simple/id579440241",
+		"app-store-id": "579440241",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/onelist/",
+			"App Store": "https://itunes.apple.com/app/1list-fast-simple/id579440241?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["home-120.png"],
+		"screenshots-big": ["home.png", "add.png"]
+	},
+	{
+		"name": "PaperShip",
+		"slug": "papership",
+		"year-start": 2013,
+		"year-end": 2019,
+		"platforms": ["iOS", "macOS"],
+		"client": "Shazino",
+		"description": "Gestion d’une bibliothèque de documents synchronisés avec Mendeley ou Zotero, avec annotations et organisation en dossiers.",
+		"url": "https://itunes.apple.com/app/papership/id631980748",
+		"app-store-id": "631980748",
+		"links": {
+			"Présentation": "http://www.papershipapp.com",
+			"App Store": "https://itunes.apple.com/app/papership/id631980748?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["paper-120.png"],
+		"screenshots-big": ["paper.png", "papers.png", "menu.png"]
+	},
+	{
+		"name": "Hivebench",
+		"slug": "hivebench",
+		"year-start": 2011,
+		"year-end": 2019,
+		"platforms": ["iOS", "watchOS", "macOS"],
+		"client": "Shazino, Elsevier",
+		"description": "Cahier de laboratoire numérique (ELN) pour la prise de note et le travail collaboratif dans le domaine de la recherche scientifique.",
+		"url": "https://itunes.apple.com/app/hivebench-lab-notebook/id1174371971",
+		"app-store-id": "1174371971",
+		"links": {
+			"Présentation": "http://www.hivebench.com",
+			"App Store": "https://itunes.apple.com/app/hivebench-lab-notebook/id1174371971?mt=8&at=1000lMiD",
+			"Mac App Store": "https://itunes.apple.com/app/hivebench-lab-notebook/id1174374502?at=1000lMiD"
+		},
+		"screenshots": ["experiment-edit-120.png"],
+		"screenshots-big": ["experiment-edit.png", "experiment-content.png", "experiment-search.png"]
+	},
+	{
+		"name": "Cyril Lignac MesDesserts",
+		"slug": "mesdesserts",
+		"year-start": 2014,
+		"year-end": 2014,
+		"platforms": ["iOS"],
+		"client": "Kitchen Factory Production",
+		"description": "Catalogue de recettes de cuisine.",
+		"url": "https://itunes.apple.com/app/cyril-lignac-mesdesserts/id777791981?mt=8",
+		"app-store-id": "777791981",
+		"links": {
+			"App Store": "https://itunes.apple.com/app/cyril-lignac-mesdesserts/id777791981?mt=8&at=1000lMiD"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Games Keeper",
+		"slug": "gameskeeper",
+		"year-start": 2013,
+		"year-end": 2022,
+		"platforms": ["iOS", "watchOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Assistant pour parties de jeux de société, avec suivi des scores et analyse des données produites.",
+		"url": "https://itunes.apple.com/app/games-keeper/id674138310",
+		"app-store-id": "674138310",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/gameskeeper/",
+			"App Store": "https://itunes.apple.com/app/games-keeper/id674138310?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["game-120.png"],
+		"screenshots-big": ["game.png", "scores.png", "players.png"]
+	},
+	{
+		"name": "Comic Book Day",
+		"slug": "comicbookday",
+		"year-start": 2013,
+		"year-end": 2021,
+		"platforms": ["iOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Gestionnaire de collections de livres, avec notifications lors de la parution de nouveaux numéros. Sélectionné par Apple sur le Mac App Store : « Apps and Games We Love Right Now ».",
+		"url": "https://itunes.apple.com/app/comic-book-day/id788312005",
+		"app-store-id": "788312005",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/comicbookday/",
+			"App Store": "https://itunes.apple.com/app/comic-book-day/id788312005?mt=8&at=1000lMiD"
+		},
+		"screenshots": ["library-120.png"],
+		"screenshots-big": ["library.png", "reading.png", "volume.png"]
+	},
+	{
+		"name": "Mega Moji",
+		"slug": "megamoji",
+		"year-start": 2016,
+		"year-end": 2021,
+		"platforms": ["iOS"],
+		"client": "Studio AMANgA",
+		"description": "Stickers pour iMessage.",
+		"url": "https://itunes.apple.com/app/mega-moji-emoji-stickers/id1152321201?mt=8",
+		"app-store-id": "1152321201",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/megamoji/",
+			"App Store": "https://itunes.apple.com/app/mega-moji-emoji-stickers/id1152321201?mt=8&at=1000lMiD"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Air Grenoble",
+		"slug": "airgrenoble",
+		"year-start": 2016,
+		"year-end": 2022,
+		"platforms": ["iOS", "watchOS", "macOS", "tvOS"],
+		"client": "Studio AMANgA",
+		"description": "Indice de qualité de l’air pour Grenoble. Sélectionné par Apple sur le Mac App Store : « Apps and Games We Love Right Now ».",
+		"url": "https://itunes.apple.com/fr/app/air-grenoble/id1183533416?mt=8",
+		"app-store-id": "1183533416",
+		"links": {
+			"Présentation": "https://www.studioamanga.com/airgrenoble/",
+			"App Store": "https://itunes.apple.com/fr/app/air-grenoble/id1183533416?mt=8&at=1000lMiD"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Bibliothèque Grenoble",
+		"slug": "bmgrenoble",
+		"year-start": 2019,
+		"year-end": 2022,
+		"platforms": ["iOS", "macOS"],
+		"client": "Studio AMANgA",
+		"description": "Actualité et informations sur la bibliothèque municipale de Grenoble, avec connection à son compte abonné.",
+		"url": "https://apps.apple.com/app/grenoble-municipal-library/id1483022528?mt=8",
+		"app-store-id": "1483022528",
+		"links": {
+			"App Store": "https://apps.apple.com/app/grenoble-municipal-library/id1483022528?mt=8"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Studio AMANgA",
+		"slug": "studioamanga",
+		"year-start": 2007,
+		"year-end": 2022,
+		"platforms": ["web"],
+		"client": "Studio AMANgA",
+		"description": "Site internet avec gestion de contenus actualisés et la description des produits de Studio AMANgA.",
+		"url": "https://www.studioamanga.com/",
+		"links": {
+			"Site web": "https://www.studioamanga.com/"
+		},
+		"screenshots": ["app-d-320.png"],
+		"screenshots-big": ["home-d.png", "app-d.png"]
+	},
+	{
+		"name": "Keres-Sy",
+		"slug": "keressy",
+		"year-start": 2007,
+		"year-end": 2011,
+		"platforms": ["web"],
+		"client": "Keres-Sy",
+		"description": "Publication des compositions musicales par Keres-Sy, en association avec des applications tierces de gestion de données audio.",
+		"url": "http://keressy.net/",
+		"links": {
+			"Site web": "http://keressy.net/"
+		},
+		"screenshots": ["album-d-320.png"],
+		"screenshots-big": ["album-d.png"]
+	},
+	{
+		"name": "Canicule et Ours Polaires",
+		"slug": "caniculeetourspolaires",
+		"year-start": 2010,
+		"year-end": 2010,
+		"platforms": ["web"],
+		"client": "Vanesse Pariétaire",
+		"description": "Guide interactif accompagnant l’album « Canicule et Ours Polaires » par Vanesse Pariétaire.",
+		"url": "http://www.vanesseparietaire.com/canicule/",
+		"links": {
+			"Site web": "http://www.vanesseparietaire.com/canicule/"
+		},
+		"screenshots": ["song-d-320.png"],
+		"screenshots-big": ["song-d.png"]
+	},
+	{
+		"name": "Remixed",
+		"slug": "remixed",
+		"year-start": 2010,
+		"year-end": 2011,
+		"platforms": ["web"],
+		"client": "Studio AMANgA",
+		"description": "Site internet adossé dynamiquement au podcast du même nom, proposant l’exploration des pistes musicales selon différents critères.",
+		"url": "http://www.studioamanga.com/remixed/",
+		"links": {
+			"Site web": "https://www.studioamanga.com/remixed/"
+		},
+		"screenshots": ["song-d-320.png"],
+		"screenshots-big": ["song-d.png"]
+	},
+	{
+		"name": "This One Is On Us TV",
+		"slug": "thisoneisonustv",
+		"year-start": 2010,
+		"year-end": 2010,
+		"platforms": ["web"],
+		"client": "This One Is On Us",
+		"description": "Exploration interactive des productions audiovisuelles de la communauté « This One Is On Us ».",
+		"url": "http://tv.thisoneisonus.org/",
+		"links": {
+			"Site web": "http://tv.thisoneisonus.org/"
+		},
+		"screenshots": ["release-d-320.png"],
+		"screenshots-big": ["home-d.png", "release-d.png"]
+	},
+	{
+		"name": "VTAcknowledgementsViewController",
+		"slug": "vtacknowledgements",
+		"year-start": 2013,
+		"year-end": 2021,
+		"platforms": ["iOS", "tvOS"],
+		"client": "open source",
+		"description": "Ready to use “Acknowledgements”/“Licenses” view controller for CocoaPods.",
+		"url": "https://github.com/vtourraine/VTAcknowledgementsViewController",
+		"links": {
+			"GitHub": "https://github.com/vtourraine/VTAcknowledgementsViewController"
+		}
+	},
+	{
+		"name": "AcknowList",
+		"slug": "acknowlist",
+		"year-start": 2016,
+		"year-end": 2022,
+		"platforms": ["iOS", "watchOS", "tvOS", "macOS"],
+		"client": "open source",
+		"description": "Ready to use “Acknowledgements”/“Licenses” view controller for CocoaPods.",
+		"url": "https://github.com/vtourraine/AcknowList",
+		"links": {
+			"GitHub": "https://github.com/vtourraine/AcknowList"
+		}
+	},
+	{
+		"name": "ThirdPartyMailer",
+		"slug": "thirdpartymailer",
+		"year-start": 2016,
+		"year-end": 2022,
+		"platforms": ["iOS"],
+		"client": "open source",
+		"description": "Interact with third-party iOS mail clients, using custom URL schemes.",
+		"url": "https://github.com/vtourraine/ThirdPartyMailer",
+		"links": {
+			"GitHub": "https://github.com/vtourraine/ThirdPartyMailer"
+		}
+	},
+	{
+		"name": "Trackup",
+		"slug": "trackup",
+		"year-start": 2015,
+		"year-end": 2021,
+		"platforms": ["iOS", "macOS"],
+		"client": "open source",
+		"description": "Markdown-based tracking system with native editor.",
+		"url": "https://github.com/vtourraine/trackup",
+		"links": {
+			"GitHub": "https://github.com/vtourraine/trackup"
+		}
+	},
+	{
+		"name": "VTFollowOnTwitter",
+		"slug": "vtfollowontwitter",
+		"year-start": 2013,
+		"year-end": 2016,
+		"platforms": ["iOS"],
+		"client": "open source",
+		"description": "Ready to use “Follow me on Twitter” native implementation.",
+		"url": "https://github.com/vtourraine/VTFollowOnTwitter",
+		"links": {
+			"GitHub": "https://github.com/vtourraine/VTFollowOnTwitter"
+		}
+	},
+	{
+		"name": "MiXiT Conference",
+		"slug": "mixit",
+		"year-start": 2015,
+		"year-end": 2021,
+		"platforms": ["iOS", "macOS"],
+		"client": "open source",
+		"description": "Programme et guide pour la conférence MiXiT à Lyon.",
+		"url": "https://github.com/vtourraine/mixit",
+		"app-store-id": "982003173",
+		"links": {
+			"App Store": "https://itunes.apple.com/app/mix-it/id982003173?ls=1&mt=8&at=1000lMiD",
+			"GitHub": "https://github.com/vtourraine/mixit"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Nano Notes",
+		"slug": "nanonotes",
+		"year-start": 2019,
+		"year-end": 2023,
+		"platforms": ["iOS", "watchOS"],
+		"client": "Studio AMANgA",
+		"description": "Prise de notes avec synchronisation Apple Watch.",
+		"url": "https://apps.apple.com/app/id1445942906",
+		"app-store-id": "1445942906",
+		"links": {
+			"Présentation" : "https://www.studioamanga.com/nanonotes/",
+			"App Store": "https://apps.apple.com/app/id1445942906"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Mendeley",
+		"slug": "mendeley",
+		"year-start": 2019,
+		"year-end": 2021,
+		"platforms": ["iOS"],
+		"client": "Elsevier",
+		"description": "Client officiel pour le service de gestion bibliographique.",
+		"url": "https://apps.apple.com/app/mendeley-pdf-reader/id380669300",
+		"app-store-id": "380669300",
+		"links": {
+			"Présentation": "https://www.mendeley.com/guides/ios",
+			"App Store": "https://apps.apple.com/app/mendeley-pdf-reader/id380669300"
+		},
+		"screenshots": ["library-120.png"],
+		"screenshots-big": []
+	},
+	{
+		"name": "Scopus Discovery",
+		"slug": "scopusdiscovery",
+		"year-start": 2019,
+		"year-end": 2020,
+		"platforms": ["iOS"],
+		"client": "Elsevier",
+		"description": "Client officiel pour le service de recommandation de publications scientifiques.",
+		"url": "https://apps.apple.com/app/scopus-discovery/id1442828311",
+		"app-store-id": "1442828311",
+		"links": {
+			"Présentation": "https://discovery.scopus.com/",
+			"App Store": "https://apps.apple.com/app/scopus-discovery/id1442828311"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Funding Institutional – FundMe",
+		"slug": "fundinginstitutional",
+		"year-start": 2021,
+		"year-end": 2021,
+		"platforms": ["iOS"],
+		"client": "Elsevier",
+		"description": "Client officiel pour le service de recommandation de financement scientifique.",
+		"url": "https://apps.apple.com/app/funding-institutional-fundme/id1577746211",
+		"app-store-id": "1577746211",
+		"links": {
+			"Présentation": "https://www.fundinginstitutional.com",
+			"App Store": "https://apps.apple.com/app/funding-institutional-fundme/id1577746211"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "Knovel",
+		"slug": "knovel",
+		"year-start": 2022,
+		"year-end": 2022,
+		"platforms": ["iOS"],
+		"client": "Elsevier",
+		"description": "Client officiel pour Knovel, base de données de documentation technique.",
+		"url": "https://apps.apple.com/app/my-knovel-togo/id972213358",
+		"app-store-id": "972213358",
+		"links": {
+			"Site internet": "https://app.knovel.com/kn",
+			"App Store": "https://apps.apple.com/app/my-knovel-togo/id972213358"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "PlayGuide",
+		"slug": "playguide",
+		"year-start": 2022,
+		"year-end": 2022,
+		"platforms": ["iOS", "macOS"],
+		"client": "PlayGuide",
+		"description": "Annuaire des aires de jeux pour enfants.",
+		"url": "https://apps.apple.com/app/playguide/id6443413389",
+		"app-store-id": "6443413389",
+		"links": {
+			"Site internet": "https://playguide.eu",
+			"App Store": "https://apps.apple.com/app/playguide/id6443413389"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	},
+	{
+		"name": "PracticeUpdate",
+		"slug": "practiceupdate",
+		"year-start": 2022,
+		"year-end": 2023,
+		"platforms": ["iOS", "macOS"],
+		"client": "Elsevier",
+		"description": "Client officiel pour PracticeUpdate, source d’actualités médicales.",
+		"url": "https://apps.apple.com/app/practiceupdate/id786924888",
+		"app-store-id": "786924888",
+		"links": {
+			"Site internet": "https://www.practiceupdate.com",
+			"App Store": "https://apps.apple.com/app/practiceupdate/id786924888"
+		},
+		"screenshots": [],
+		"screenshots-big": []
+	}
+]
