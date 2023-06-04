@@ -24,6 +24,7 @@ final class VTProjectTests: XCTestCase {
         XCTAssertEqual(first.slug, "mytee")
         XCTAssertEqual(first.yearStart, 2011)
         XCTAssertEqual(first.platforms, ["web", "iOS"])
+        XCTAssertEqual(first.url?.absoluteString, "http://www.studioamanga.com/mytee/")
         XCTAssertEqual(first.screenshots, ["shirt-120.png"])
         XCTAssertEqual(first.screenshotsBig, ["homepage.png", "shirt.png", "shirts.png"])
     }

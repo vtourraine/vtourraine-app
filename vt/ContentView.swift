@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    var projects: [Project] = {
+    @State var projects: [Project] = {
         let bundle = Bundle.main
         do {
             guard let fileURL = bundle.url(forResource: "projects", withExtension: "json") else {
@@ -24,12 +24,28 @@ struct ContentView: View {
             return []
         }
     }()
+    let currentYear = 2023
 
     var body: some View {
         NavigationView {
             List {
-                ForEach(projects) { project in
-                    ProjectRow(project: project)
+                Section("Current Projects") {
+                    ForEach(projects.filter { $0.yearEnd == currentYear || $0.yearEnd == currentYear - 1 }) { project in
+                        NavigationLink {
+                            ProjectDetailView(project: project)
+                        } label: {
+                            ProjectRow(project: project)
+                        }
+                    }
+                }
+                Section("Past Projects") {
+                    ForEach(projects.filter { $0.yearEnd < currentYear - 1 }) { project in
+                        NavigationLink {
+                            ProjectDetailView(project: project)
+                        } label: {
+                            ProjectRow(project: project)
+                        }
+                    }
                 }
             }.navigationTitle("Projects")
         }

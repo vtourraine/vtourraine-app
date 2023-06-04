@@ -12,10 +12,10 @@ struct ProjectRow: View {
 
     var body: some View {
         HStack {
-            VStack(alignment: .leading) {
+            VStack(alignment: .leading, spacing: 8) {
                 Text(project.name)
                     .font(.headline)
-                Text(project.platforms.joined(separator: ", "))
+                Text(project.platforms.joined(separator: ", ") + " – " + project.client)
                     .font(.subheadline)
             }
             Spacer()
@@ -25,6 +25,6 @@ struct ProjectRow: View {
 
 struct ProjectRow_Previews: PreviewProvider {
     static var previews: some View {
-        ProjectRow(project: Project(name: "Project", slug: "", yearStart: 0, yearEnd: 0, platforms: ["iOS", "macOS"], client: "", description: "", url: "", links: [:], screenshots: nil, screenshotsBig: nil))
+        ProjectRow(project: Project(name: "Project", slug: "", yearStart: 0, yearEnd: 0, platforms: ["iOS", "macOS"], client: "Std AMG", description: "", url: URL(string: ""), links: [:], screenshots: nil, screenshotsBig: nil))
     }
 }

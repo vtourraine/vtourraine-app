@@ -15,6 +15,7 @@
 		BB266CEA2A2BD3A30048B0ED /* projects.json in Resources */ = {isa = PBXBuildFile; fileRef = BB266CE62A2BD1D90048B0ED /* projects.json */; };
 		BB266CEB2A2BD6460048B0ED /* projects.json in Resources */ = {isa = PBXBuildFile; fileRef = BB266CE62A2BD1D90048B0ED /* projects.json */; };
 		BB266CED2A2BD6CE0048B0ED /* ProjectRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB266CEC2A2BD6CE0048B0ED /* ProjectRow.swift */; };
+		BBE3CC032A2CB35D00744F88 /* ProjectDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE3CC022A2CB35D00744F88 /* ProjectDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,7 @@
 		BB266CE62A2BD1D90048B0ED /* projects.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = projects.json; sourceTree = "<group>"; };
 		BB266CE82A2BD1F20048B0ED /* Project.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project.swift; sourceTree = "<group>"; };
 		BB266CEC2A2BD6CE0048B0ED /* ProjectRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectRow.swift; sourceTree = "<group>"; };
+		BBE3CC022A2CB35D00744F88 /* ProjectDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				BB266CBC2A2BD19C0048B0ED /* vtApp.swift */,
 				BB266CBE2A2BD19C0048B0ED /* ContentView.swift */,
 				BB266CEC2A2BD6CE0048B0ED /* ProjectRow.swift */,
+				BBE3CC022A2CB35D00744F88 /* ProjectDetailView.swift */,
 				BB266CC02A2BD19C0048B0ED /* Assets.xcassets */,
 				BB266CE82A2BD1F20048B0ED /* Project.swift */,
 			);
@@ -199,6 +202,7 @@
 			files = (
 				BB266CBF2A2BD19C0048B0ED /* ContentView.swift in Sources */,
 				BB266CBD2A2BD19C0048B0ED /* vtApp.swift in Sources */,
+				BBE3CC032A2CB35D00744F88 /* ProjectDetailView.swift in Sources */,
 				BB266CED2A2BD6CE0048B0ED /* ProjectRow.swift in Sources */,
 				BB266CE92A2BD1F20048B0ED /* Project.swift in Sources */,
 			);

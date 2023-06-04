@@ -15,7 +15,7 @@ struct Project: Codable {
     let platforms: [String]
     let client: String
     let description: String
-    let url: String
+    let url: URL?
     let links: [String: String]
     let screenshots: [String]?
     let screenshotsBig: [String]?
